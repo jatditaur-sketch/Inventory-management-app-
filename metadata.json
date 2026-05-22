@@ -1,0 +1,6 @@
+{
+  "name": "StockSync Pro",
+  "description": "Real-time wholesale inventory tracking with handwriting OCR slips scanning, real-time threshold alerts, reorder reports, and POS billing system with receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
